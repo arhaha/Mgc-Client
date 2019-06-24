@@ -17,7 +17,7 @@
   "engine": "node >= 8.0.0",
   "main": "index.js",
   "repository": {
-    "url": "git@github.com:arhaha/Mgc-Client.git",
+    "url": "https://github.com/arhaha/Mgc-Client",
     "type": "git"
   },
   "dependencies": {
