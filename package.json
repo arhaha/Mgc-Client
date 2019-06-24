@@ -17,16 +17,16 @@
   "engine": "node >= 8.0.0",
   "main": "index.js",
   "repository": {
-    "url": "git@github.com:MagnaChain/Mgc-Client.git",
+    "url": "git@github.com:arhaha/Mgc-Client.git",
     "type": "git"
   },
   "dependencies": {
     "async": "^0.9.0",
     "bip38": "^1.3.0",
-    "Mgc-Corelib": "git+ssh://git@github.com:MagnaChain/Mgc-Corelib.git",
+    "Mgc-Corelib": "git+ssh://git@github.com:arhaha/Mgc-Corelib.git",
     "bitcore-lib-cash": "^0.16.1",
-    "Mgc-Mnemonic": "git+ssh://git@github.com:MagnaChain/Mgc-Mnemonic.git",
-    "Mgc-Payment-Protocol": "git+ssh://git@github.com:MagnaChain/Mgc-Payment-Protocol.git",
+    "Mgc-Mnemonic": "git+ssh://git@github.com:arhaha/Mgc-Mnemonic.git",
+    "Mgc-Payment-Protocol": "git+ssh://git@github.com:arhaha/Mgc-Payment-Protocol.git",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^4.17.4",
     "preconditions": "^1.0.8",
